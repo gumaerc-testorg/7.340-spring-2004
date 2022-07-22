@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 735354fa-2a1c-b3f4-9b47-b8f1b6021434
 ---
@@ -103,7 +106,7 @@ This week we will continue our discussion of the MHC class I antigen processing 
 {{< tdopen >}}
 Wiertz, E. J., T. R. Jones, L. Sun, M. Bogyo, H. J. Geuze, and H. L. Ploegh. "The human cytomegalovirus US11 gene product dislocates MHC class I heavy chains from the endoplasmic reticulum to the cytosol." _Cell_ 84 (1996): 769-779.  
   
-Zhao, Y., and B. J. Biegalke. "Functional analysis of the human cytomegalovirus immune evasion protein pUS3 22kDa." _Virology_ 315 (2003): 353-361.
+Zhao, Y., and B. J. Biegalke. "Functional analysis of the human cytomegalovirus immune evasion protein pUS3 22{{< sup "kDa" >}}." _Virology_ 315 (2003): 353-361.
 {{< tdclose >}}
 
 {{< trclose >}}
