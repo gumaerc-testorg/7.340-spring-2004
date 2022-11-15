@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings for the course with a brief
+  overview of the readings for each week.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 735354fa-2a1c-b3f4-9b47-b8f1b6021434
 ---
 
-For each weekly session, students are required to read two primary literature articles using the Guidelines for Reading Papers document. ([PDF]({{< baseurl >}}/resources/guideread_paper))
+For each weekly session, students are required to read two primary literature articles using the Guidelines for Reading Papers document. ({{% resource_link 3583eb45-d495-8847-e3cd-b5838b2fd111 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
